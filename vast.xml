@@ -33,7 +33,7 @@
        <ClickThrough id="GDFP"><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsv_IFTFvrsEhYwf9LDxuX8LsTpaV3TUZdRpknqAmfm1mIiySux8_ftC-lCgOIAb5if_3iDAT2rrZqmVsWK8BN0QcXm6DHBjb_0X66TcThRBygCH3idkKEIJkEYiGrp-dnPfg-6LPuOY6cSGDnTrW10tDrcTPmUTv4e1SJuU0GbzPx9ePBreUHsDhTW5PhcMKxf_IfNQRTuf3DkPE9hLyWY1TSj0WTSwQLmO4C2NGx85kz8d3eOu-IU0EZhMp70meuZd0QJoWgvyL5xHUcaZfbetFmOU1TaD3cB0y_GCOfA31bqkbiLmp_wzv9NVF02NvbKIW2w_y27Isp8QljhtjuF7&sai=AMfl-YSXufKPCUmPE2u6Poe7WsK5CL1T5lDRtM_HTq8-4PSuv2u5dBZmGgkGubUcv0riHbtq-d5DJAT-6w_-7eSk1Ze2JRpPcFOhT0WRB8DP6swIcHU&sig=Cg0ArKJSzPCkym5eE0p1&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://googleads.github.io/googleads-ima-html5/vsi/]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true"><![CDATA[]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="143" scalable="true" maintainAspectRatio="true"><![CDATA[https://dseminaraimmergo.github.io/staticvast/file.mp4]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>
